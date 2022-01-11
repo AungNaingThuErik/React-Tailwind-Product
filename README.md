@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Build a Website with React and Tailwind CSS
+
+[SitePoint](https://www.sitepoint.com/react-tailwind-css-build-site/).
+
 ## Available Scripts
 
 In the project directory, you can run:
